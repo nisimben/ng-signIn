@@ -1,2 +1,5 @@
 # Slack
-[see my demo here]("https://nisimben.github.io/ng-signIn/")
+[see my demo here](https://nisimben.github.io/ng-signIn/)
+* validete on email
+* nim length of password char is 8 
+
